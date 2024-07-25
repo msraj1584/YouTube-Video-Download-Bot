@@ -7,6 +7,9 @@
 from pyrogram import Client, filters
 from Youtube.config import Config
 
+API_ID='2719161'
+API_HASH='7cee7c162f09ef31d18425ff64cb6552'
+BOT_TOKEN='7140288884:AAHfZOdyTeZKJQmhDnqDL6fu7UlSXVZa1GY'
 # Create a Pyrogram client
 app = Client(
     "my_bot",
